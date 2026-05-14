@@ -20,20 +20,20 @@ Full Stack Developer • React • Node.js • PostgreSQL
 
 ## 💻 Actualmente
 
-- 🛠️ Desarrollando sistemas empresariales
-- ⚙️ Automatización y gestión de procesos
-- 🚗 Proyecto de parqueadero inteligente
-- 📄 Generación dinámica de PDFs
-- 🔒 Sistemas con roles y permisos
+- ⚙️ Automatización de procesos empresariales
+- 🍽️ Desarrollo de sistemas para restaurantes
+- 📦 Sistemas de gestión y control administrativo
+- 🔒 Sistemas a la medida
+- ☁️ Desarrollo Full Stack con React, Node.js y PostgreSQL
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=carlos06100&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos06100&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
