@@ -35,3 +35,23 @@ Full Stack Developer • React • Node.js • PostgreSQL
 🔒 Sistemas con roles y permisos
 ☁️ Aplicaciones Full Stack modernas
 🚀 Construyendo soluciones reales para empresas
+
+## 📈 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos06100&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ Métricas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos06100&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlos06100&theme=tokyonight"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlos06100&theme=tokyonight"/>
+</p>
