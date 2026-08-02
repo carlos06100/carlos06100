@@ -1,57 +1,103 @@
-<h1 align="center">⚡ Carlos Vivas ⚡</h1>
-
-<h3 align="center">
-Full Stack Developer • React • Node.js • PostgreSQL
-</h3>
-Ω
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Desarrollando+soluciones+tecnológicas;Automatización+de+procesos;React+•+Node.js+•+PostgreSQL;Sistemas+a+la+medida;Construyendo+software+para+empresas" />
-</p>
-
----
-
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3V6ZXE4cTZ4YzA4dG5jZTF1dDB1b2txZmN6eTR0ZXN6cDBuM2NtNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+# ⚡ Carlos Vivas ⚡
+
+### Full Stack Developer | React | Node.js | PostgreSQL
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Desarrollando+soluciones+tecnológicas;Automatizando+procesos+empresariales;Creando+sistemas+a+la+medida;React+%7C+Node.js+%7C+PostgreSQL;Construyendo+software+para+empresas"
+alt="Typing SVG"
+/>
+
+<br>
+
+<img
+src="https://img.shields.io/github/followers/carlos06100?style=for-the-badge&logo=github&label=Seguidores"
+alt="Seguidores en GitHub"
+/>
+
+<img
+src="https://img.shields.io/github/stars/carlos06100?style=for-the-badge&logo=github&label=Estrellas"
+alt="Estrellas en GitHub"
+/>
 
 </div>
 
 ---
 
-## 🚀 Tecnologías
+## 👨‍💻 Sobre mí
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,postgres,git,github,vite,tailwind,linux,express,docker" />
-</p>
+Soy desarrollador Full Stack enfocado en crear soluciones tecnológicas que ayuden a las empresas a mejorar y automatizar sus procesos.
+
+* ⚙️ Automatización de procesos empresariales
+* 🍽️ Sistemas para restaurantes y gestión administrativa
+* 📦 Desarrollo de software a la medida
+* 🔐 Sistemas con usuarios, roles y permisos
+* ☁️ Aplicaciones web Full Stack
+* 🐳 Despliegue de aplicaciones con Docker
+* 🚀 Construcción de soluciones reales para empresas
 
 ---
 
-## 💻 Sobre mí
+## 🚀 Tecnologías
 
+<div align="center">
 
-⚙️ Automatización de procesos empresariales
-🍽️ Sistemas para restaurantes y gestión administrativa
-📦 Desarrollo de software a la medida
-🔒 Sistemas con roles y permisos
-☁️ Aplicaciones Full Stack modernas
-🚀 Construyendo soluciones reales para empresas
+<img
+src="https://skillicons.dev/icons?i=react,nodejs,ts,js,postgres,git,github,vite,tailwind,linux,express,docker&perline=6"
+alt="Tecnologías y herramientas"
+/>
 
-## 📈 Actividad
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlos06100&theme=tokyo-night&hide_border=true"/>
-</p>
+---
 
+## 🧰 Stack principal
 
+<div align="center">
 
-## ⚡ Métricas
+|   Frontend   |    Backend    |   Base de datos   | Herramientas |
+| :----------: | :-----------: | :---------------: | :----------: |
+|     React    |    Node.js    |     PostgreSQL    |      Git     |
+|  TypeScript  |    Express    |       Prisma      |    GitHub    |
+| Tailwind CSS |    API REST   |        SQL        |    Docker    |
+|     Vite     | Autenticación | Modelado de datos |     Linux    |
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos06100&theme=tokyonight"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlos06100&theme=tokyonight"/>
+---
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlos06100&theme=tokyonight"/>
-</p>
+## 📊 Actividad en GitHub
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=carlos06100&theme=tokyo-night&hide_border=true&area=true"
+width="100%"
+alt="Gráfico de actividad de Carlos Vivas"
+/>
+
+</div>
+
+---
+
+## 📌 Proyectos e intereses
+
+Actualmente trabajo y experimento con:
+
+* Plataformas administrativas para empresas
+* Sistemas multiempresa y multiusuario
+* Gestión de ventas, clientes y procesos
+* Integraciones con APIs y servicios externos
+* Automatización de tareas empresariales
+* Infraestructura con servidores, Linux y Docker
+
+---
+
+<div align="center">
+
+### 💡 Transformando procesos en soluciones tecnológicas
+
+**Siempre aprendiendo, construyendo y mejorando.**
+
+</div>
